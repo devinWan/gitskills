@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple
-and merge
+and merge is a free software
